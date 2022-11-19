@@ -11,6 +11,9 @@ function getMathResult(num, times) {
         else{
             str += `${num * i}---`;
         }
+        else if{
+            
+        }
     }
     return str;
     }
